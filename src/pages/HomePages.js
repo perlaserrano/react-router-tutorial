@@ -1,4 +1,10 @@
+import {Link} from 'react-router-dom';
+
+
 export default function HomePages() {
-  return <div>Hello word</div>
-  
+  return <div>
+    <h1>Aplication</h1>
+    
+  </div>
+
 }
